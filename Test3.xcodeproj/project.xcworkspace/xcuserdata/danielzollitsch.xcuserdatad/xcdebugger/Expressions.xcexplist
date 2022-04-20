@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "timelineTool.timeRulerC.draw(in:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "unit_numbers_text_layer">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
